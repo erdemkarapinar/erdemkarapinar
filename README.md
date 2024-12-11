@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/erdem-karapınar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdem-karapınar" height="30" width="40" /></a>
+<a href="https://tr.linkedin.com/in/erdem-karap%C4%B1nar-b77620291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdem-karapınar" height="30" width="40" /></a>
 <a href="https://medium.com/@erdem.karpnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erdem.karpnar" height="30" width="40" /></a>
 </p>
 
