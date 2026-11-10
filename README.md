@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erdem Karapınar</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Erdem Karapınar Blog website**
+- 🔭 I’m currently working on **EduTech Project**
 
 - 🌱 I’m currently learning **Linux**
 
